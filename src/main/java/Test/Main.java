@@ -41,7 +41,7 @@ public class Main {
 			TestMaximum testmaximum9 = new TestMaximum("Mango","Pineapple","Kiwi","orange","apple");
 			testmaximum9.findMaximum("Mango","Pineapple","Kiwi","orange","apple");
 			break;
-			
+		default:System.out.println("invalid option");
 			
 
 		}
